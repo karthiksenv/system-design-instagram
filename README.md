@@ -37,3 +37,11 @@ I'd rather write that down now than discover it in month seven. The pivot trigge
 The research here — competitor sizes, algorithm behaviour, growth benchmarks, tool options — was gathered in July 2026. Platform mechanics change fast. Follower counts and ranking signals are worth re-checking before anyone leans on them.
 
 The decisions here, though, are mine. The research just made them cheaper to make.
+
+## Using this
+
+Public so it can be read, licensed so it can't be resold. Everything here is under [CC BY-NC-ND 4.0](./LICENSE).
+
+Borrow the approach freely — that's the point of publishing it. If you quote or reference the files, credit and a link back are all I ask. What's not on the table is packaging this into a paid product or republishing an edited version as your own.
+
+If you want to adapt it commercially, just ask me.
