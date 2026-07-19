@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560" role="img" aria-label="Anatomy of one reel">
+  <rect width="1000" height="560" fill="#0D1117"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#8B949E"/>
+    </marker>
+  </defs>
+  <text x="48" y="56" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#E6EDF3">Anatomy of one reel</text>
+  <text x="48" y="82" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">Every reel uses the same frame so the account is recognisable mid-scroll.</text>
+
+  <rect x="48" y="112" width="270" height="400" rx="16" fill="#161B22" stroke="#30363D"/>
+  <text x="183" y="168" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#F0A202" text-anchor="middle">Why Netflix</text>
+  <text x="183" y="196" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#F0A202" text-anchor="middle">never crashes</text>
+  <rect x="70" y="250" width="60" height="28" rx="6" fill="none" stroke="#2F81F7" stroke-width="1.6"/><text x="100.0" y="268.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#E6EDF3" text-anchor="middle">you</text>
+  <rect x="160" y="250" width="66" height="28" rx="6" fill="none" stroke="#F0A202" stroke-width="1.6"/><text x="193.0" y="268.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#E6EDF3" text-anchor="middle">host</text>
+  <rect x="252" y="218" width="52" height="24" rx="6" fill="none" stroke="#2F81F7" stroke-width="1.6"/><text x="278.0" y="234.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#E6EDF3" text-anchor="middle">srv</text>
+  <rect x="252" y="252" width="52" height="24" rx="6" fill="none" stroke="#2F81F7" stroke-width="1.6"/><text x="278.0" y="268.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#E6EDF3" text-anchor="middle">srv</text>
+  <rect x="252" y="286" width="52" height="24" rx="6" fill="none" stroke="#2F81F7" stroke-width="1.6"/><text x="278.0" y="302.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#E6EDF3" text-anchor="middle">srv</text>
+  <line x1="132" y1="264" x2="158" y2="264" stroke="#8B949E" stroke-width="1.4" marker-end="url(#a)"/>
+  <line x1="228" y1="264" x2="250" y2="231" stroke="#8B949E" stroke-width="1.4" marker-end="url(#a)"/>
+  <line x1="228" y1="264" x2="250" y2="265" stroke="#8B949E" stroke-width="1.4" marker-end="url(#a)"/>
+  <line x1="228" y1="264" x2="250" y2="297" stroke="#8B949E" stroke-width="1.4" marker-end="url(#a)"/>
+  <text x="183" y="352" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#E6EDF3" text-anchor="middle">A restaurant host seating</text>
+  <text x="183" y="372" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#E6EDF3" text-anchor="middle">guests at empty tables.</text>
+  <rect x="66" y="462" width="234" height="30" rx="7" fill="#0B0F14"/>
+  <text x="183" y="482" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#8B949E" text-anchor="middle">send this to your prep buddy</text>
+
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <line x1="330" y1="150" x2="392" y2="150" stroke="#F0A202" stroke-width="1.4"/>
+    <text x="404" y="146" font-size="15" font-weight="700" fill="#E6EDF3">Hook &#8212; 8 words, frame one</text>
+    <text x="404" y="168" font-size="13" fill="#8B949E">Half of viewers leave in three seconds. No intro, ever.</text>
+
+    <line x1="330" y1="264" x2="392" y2="264" stroke="#2F81F7" stroke-width="1.4"/>
+    <text x="404" y="260" font-size="15" font-weight="700" fill="#E6EDF3">Diagram builds piece by piece</text>
+    <text x="404" y="282" font-size="13" fill="#8B949E">Something new appears every 1&#8211;2 seconds so nothing sits still.</text>
+
+    <line x1="330" y1="362" x2="392" y2="362" stroke="#3FB950" stroke-width="1.4"/>
+    <text x="404" y="358" font-size="15" font-weight="700" fill="#E6EDF3">One everyday analogy</text>
+    <text x="404" y="380" font-size="13" fill="#8B949E">Then one line on why an interviewer cares. One idea per reel.</text>
+
+    <line x1="330" y1="477" x2="392" y2="477" stroke="#8B949E" stroke-width="1.4"/>
+    <text x="404" y="473" font-size="15" font-weight="700" fill="#E6EDF3">Sends, not likes</text>
+    <text x="404" y="495" font-size="13" fill="#8B949E">Instagram weights a DM share far above a like. Ask for the share.</text>
+  </g>
+  <text x="48" y="540" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#30363D">illustrative mockup &#8212; generated by docs/make_screens.py</text>
+</svg>
